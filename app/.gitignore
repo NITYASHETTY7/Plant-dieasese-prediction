@@ -6,3 +6,4 @@ trained_model/plant_disease_prediction_model.h5
 trained_model/*.keras
 trained_model/*.keras
 app/trained_model/*.keras
+app/trained_model/*
