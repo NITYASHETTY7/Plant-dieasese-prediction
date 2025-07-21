@@ -1,0 +1,5 @@
+# Ignore model files
+*.keras
+*.h5
+trained_model/plant_disease_prediction_model.keras
+trained_model/plant_disease_prediction_model.h5
